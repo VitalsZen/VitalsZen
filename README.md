@@ -17,7 +17,7 @@ I’m a student developer passionate about building user-centric web application
 **Backend:** FastAPI | Docker  
 **Cloud:** AWS (deployment basics)  
 **AI & RAG:** Entry-level RAG implementation | Vector Search & Embeddings fundamentals  
-**Data & Visualization:** Flourish
+**Data & Visualization:** Flourish  
 **Tools:** Git | GitHub | Docker | CI/CD
 
 ### 💡 Quick Facts
