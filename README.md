@@ -8,7 +8,7 @@ I’m a student developer passionate about building user-centric web application
 
 Languages: JavaScript | Python | HTML | CSS
 
-Frameworks & Tools: React | FastAPI | Vite | Tailwind CSS | Git | Docker
+Frameworks & Tools: React | FastAPI | Vite | Tailwind CSS | Git | Docker | AWS
 
 💡 Quick Facts
 
