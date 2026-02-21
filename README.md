@@ -20,11 +20,8 @@ I’m a student developer passionate about building user-centric web application
 **Data & Visualization:** Flourish  
 **Tools:** Git | GitHub | Docker | CI/CD
 
-### 💡 Quick Facts
-
-- Fast learner who builds by doing
-- Open to new tools and team needs
-- Eager to contribute and grow as an intern
+About me:  
+I learn fast by doing, enjoy picking up new tools, and am eager to grow as an intern while building the skills to contribute meaningfully in the future.
 
 ### 📫 Let’s Connect
 
