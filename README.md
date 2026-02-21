@@ -4,28 +4,26 @@ Aspiring Web Developer Intern | React Enthusiast
 
 I’m a student developer passionate about building user-centric web applications. I focus on creating interactive experiences with clean, maintainable code. I enjoy solving real problems through hands-on projects and learning new technologies along the way.
 
-## 🏅 Certifications
+### 🏅 Certifications
 
 [<img src="aws-academy-graduate-cloud-foundations-training-bad.png" height="110px">](https://www.credly.com/badges/dc6d46c2-7ceb-4cda-b9a6-4dba8474e476/public_url)
 [<img src="google-ai-essentials-v1.png" height="110px">](https://www.credly.com/badges/4e49048c-cac5-464b-b2da-073e634e8488/public_url)
 
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 Languages: JavaScript | HTML | CSS | Python  
 Frontend: React | Vite | Tailwind CSS  
 Backend: FastAPI | Docker | AWS  
 Tools: Git
 
-💡 Quick Facts
+### 💡 Quick Facts
 
-Fast learner who builds by doing
+- Fast learner who builds by doing
+- Open to new tools and team needs
+- Eager to contribute and grow as an intern
 
-Open to new tools and team needs
-
-Eager to grow and contribute as an intern
-
-📫 Let’s Connect
+### 📫 Let’s Connect
 
 LinkedIn: https://www.linkedin.com/in/phtkhang/
 
