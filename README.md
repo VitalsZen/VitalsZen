@@ -6,7 +6,7 @@ I’m a student developer passionate about building user-centric web application
 
 ## 🏅 Certifications
 
-[![AWS Academy Foundation](assets/badges/aws-foundation.png)](https://www.credly.com/badges/dc6d46c2-7ceb-4cda-b9a6-4dba8474e476/public_url)
+[![AWS Academy Foundation](aws-academy-graduate-cloud-foundations-training-bad.png)](https://www.credly.com/badges/dc6d46c2-7ceb-4cda-b9a6-4dba8474e476/public_url)
 [![Google AI Essentials](assets/badges/google-ai.png)](https://www.credly.com/badges/4e49048c-cac5-464b-b2da-073e634e8488/public_url)
 
 🛠 Tech Stack
