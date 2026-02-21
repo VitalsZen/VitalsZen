@@ -12,10 +12,13 @@ I’m a student developer passionate about building user-centric web application
 
 ### 🛠 Tech Stack
 
-Languages: JavaScript | HTML | CSS | Python  
-Frontend: React | Vite | Tailwind CSS  
-Backend: FastAPI | Docker | AWS  
-Tools: Git
+**Languages:** JavaScript | HTML | CSS | Python  
+**Frontend:** React (Vite) | Tailwind CSS  
+**Backend:** FastAPI | Docker  
+**Cloud:** AWS (deployment basics)  
+**AI & RAG:** Entry-level RAG implementation | Vector Search & Embeddings fundamentals
+**Data & Visualization:** Flourish
+**Tools:** Git | GitHub | Docker | CI/CD
 
 ### 💡 Quick Facts
 
