@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm [Tên của bạn]!
 
-<!--
-**VitalsZen/VitalsZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Web Developer Intern | TypeScript & React Enthusiast**
 
-Here are some ideas to get you started:
+I’m a student developer passionate about building meaningful web applications. I focus on the **TypeScript ecosystem**, creating interactive projects that turn complex data into intuitive user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects
+- **CareerFlow** – An AI-powered ATS & Resume Analyzer using RAG technology  
+- **Customer Churn Analytics** – Interactive ML visualization platform
+
+### 🛠 Tech Stack
+**Languages:** TypeScript | JavaScript | Python | HTML | CSS  
+**Frameworks & Tools:** React | FastAPI | Vite | Tailwind CSS | Git | Docker  
+**Data & AI:** Recharts | Chart.js | LangChain | Google Gemini API
+
+### 💡 Quick Facts
+- Fast learner who enjoys building by doing  
+- Open to new technologies and team needs  
+- Eager to grow and contribute as an intern
+
+### 📫 Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/phtkhang/
+- Email: phtkhang1502@gmail.com 
