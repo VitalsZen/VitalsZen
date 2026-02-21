@@ -1,4 +1,4 @@
-Hi there 👋 I'm Khang!
+Hi there  I'm Khang!
 
 Aspiring Web Developer Intern | React Enthusiast
 
