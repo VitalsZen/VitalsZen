@@ -18,7 +18,7 @@ I’m a student developer passionate about building user-centric web application
 **Cloud:** AWS (deployment basics)  
 **AI & RAG:** Entry-level RAG implementation | Vector Search & Embeddings fundamentals  
 **Data & Visualization:** Flourish  
-**Tools:** Git | GitHub | Docker | CI/CD
+**Tools:** Git | GitHub | Docker
 
 **About me:**
 I learn fast by doing, enjoy picking up new tools, and am eager to grow as an intern while building the skills to contribute meaningfully in the future.
