@@ -1,7 +1,5 @@
 Hi there, I'm Khang!
 
-Aspiring Web Developer Intern | React Enthusiast
-
 I’m a student developer passionate about building user-centric web applications. I focus on creating interactive experiences with clean, maintainable code. I enjoy solving real problems through hands-on projects and learning new technologies along the way.
 
 ### 🏅 Certifications
@@ -16,7 +14,7 @@ I’m a student developer passionate about building user-centric web application
 **Frontend:** React (Vite) | Tailwind CSS  
 **Backend:** FastAPI | Docker  
 **Cloud:** AWS (deployment basics)  
-**AI & RAG:** Entry-level RAG implementation | Vector Search & Embeddings fundamentals  
+**AI & RAG:** Entry-level RAG implementation
 **Data & Visualization:** Flourish  
 **Tools:** Git | GitHub | Docker
 
